@@ -14,7 +14,7 @@ const about = document.querySelector('#about');
 
 // homeSelected();
 aboutSelected();
-
+// menuSelected();
 home.addEventListener('click', homeSelected);
 menu.addEventListener('click', menuSelected);
 about.addEventListener('click', aboutSelected);
